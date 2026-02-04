@@ -1,5 +1,18 @@
 This is line 1.
 This is line 2.
 This is line 3.
-This is line1 form TeamA
+This is line 4.
+Line 5.
+Line 6.
+Line1 from TeamB.
+Line2 from TeamB.
+his is line1 form TeamA
 This is line2 form TeamA
+
+
+
+
+
+
+
+>>>>>>> 252283186bbf3682265e6120216332fff70e9357
